@@ -1,5 +1,6 @@
 # Automated_Analysis_13DForms
-https://github.com/Mburnand-tech/Automated_Analysis_13DForms/assets/82216191/eecd3cfe-2a97-4de7-b000-8537538d2a1f
+
+You can view a presentation about the project [here](https://1drv.ms/v/s!Aro-s1KLUmWK3ndbqabzjqjHI36G?e=WsyZOp)
 
 ## :computer: Description
 
@@ -9,7 +10,6 @@ The automation is inputed with the URL of respective [13-d forms](https://www.in
 
 The concept being that investment holding information when collated from various of the biggest and most successful growth asset managers in the world, could allow me to stand on the shoulders of their research teams to identify individual companies with above average growth potential. This would not be an opposing strategy to investing in the funds themselves but find outliers.
 
-<!-- You can view a presentation about the project [here](https://1drv.ms/v/s!Aro-s1KLUmWK3ndbqabzjqjHI36G?e=WsyZOp) -->
 
 
 
