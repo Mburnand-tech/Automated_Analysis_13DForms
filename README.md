@@ -1,7 +1,6 @@
 # Automated_Analysis_13DForms
 
-You can view a presentation about the project [here]()
-<div align="center"><a href='https://1drv.ms/v/s!Aro-s1KLUmWK3ndbqabzjqjHI36G?e=WsyZOp'> :point_right: :point_right: HOSTED WEBSITE :point_left: :point_left: <a></div>
+<div align="center"><a href='https://1drv.ms/v/s!Aro-s1KLUmWK3ndbqabzjqjHI36G?e=WsyZOp'> :point_right: :point_right: PRESENTATION :point_left: :point_left: <a></div>
 <!-- <div align="center"><a href='https://burnet-news.netlify.app/'> :point_right: :point_right: HOSTED WEBSITE :point_left: :point_left: <a></div> -->
 
 ## :computer: Description
